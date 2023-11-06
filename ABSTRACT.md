@@ -1,5 +1,1 @@
-
-Sample image template:
-<img src="https://github.com/dataset-ninja/gland-segmentation/assets/78355358/f158d0dd-71d5-41a2-aba5-4a5f57d54c35" alt="image" width="800">
-
-<span style="font-size: smaller; font-style: italic;">Image description.</span>
+The **Iraqi Money** dataset is specifically designed for an object detection task, comprising 7260 images with a total of 7260 labeled objects distributed among 14 distinct classes. These classes encompass a variety of Iraqi currency denominations, such as *1000en*, *500en*, and *5000ar*, alongside other notes including *500ar*, *1000ar*, *10000en*, *250ar*, *250en*, *10000ar*, *5000en*, *25000ar*, *25000en*, *50000ar*, and *50000en*. The dataset serves as a fundamental resource in training the CoreML model for the [MoneyReader](http://itunes.apple.com/app/id1421092136) app developed for iOS, aiding in the accurate recognition and classification of Iraqi currency notes.
